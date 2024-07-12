@@ -31,22 +31,21 @@ Machine Learning Model Development:
 
 Developed a classification model and validated it using cross-validation.
 Evaluated model performance using AUC score, confusion matrix, and classification report.
-Getting Started
+
+
+#Getting Started
 Prerequisites
 Python 3.7 or above
 Required libraries: pandas, numpy, scikit-learn, nltk, matplotlib, seaborn
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/adaptive-learning-system.git
+git clone https://github.com/hritaku/ADAPTIVE-LEARNING-SYSTEMS-AUTOMATIC-STUDENT-SEGMENTATION-BASED-ON-ONLINE-COURSE-INTERACTION.git
 Navigate to the project directory:
 bash
-Copy code
 cd adaptive-learning-system
 Install the required libraries:
 bash
-Copy code
 pip install -r requirements.txt
 Usage
 Preprocess the data:
